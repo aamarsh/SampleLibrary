@@ -11,6 +11,7 @@ namespace MathLibrary
         // another comment
         //adding comment
         // sample library comment
+        //conflict
         public float Substract(float a, float b)
         {
             return a - b;
@@ -30,5 +31,6 @@ namespace MathLibrary
         {
             return a * a;
         }
+        
     }
 }
