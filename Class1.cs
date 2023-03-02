@@ -31,5 +31,6 @@ namespace MathLibrary
         {
             return a * a;
         }
+        
     }
 }
